@@ -300,7 +300,7 @@ h3{
 .nav-open-btn .menu-icon,
 .nav-open-btn.active .close-icon {
   display: block;
-  border: 3px solid red;
+  /* border: 3px solid red; */
 }
  
 .navbar {
